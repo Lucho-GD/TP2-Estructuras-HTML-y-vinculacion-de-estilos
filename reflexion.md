@@ -20,4 +20,4 @@ A diferencia de utilizar únicamente etiquetas `<div>`, las etiquetas semántica
 
 Para comprobar que las rutas de los enlaces eran correctas, primero abrí los archivos HTML directamente desde mi PC y probé los enlaces "Inicio" y "Acerca de" para verificar que ambas páginas se pudieran abrir correctamente.
 
-Luego subí los archivos al repositorio de GitHub y desplegué el proyecto mediante GitHub Pages. Desde la página publicada volví a probar los enlaces de navegación para comprobar que funcionaran correctamente también en el entorno remoto.
+Luego subí los archivos al repositorio de GitHub y desplegué el proyecto mediante GitHub Pages. Desde la página publicada volví a probar los enlaces de navegación para comprobar que funcionaran correctamente también ahí.
