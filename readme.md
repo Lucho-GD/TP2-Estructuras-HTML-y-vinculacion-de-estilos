@@ -12,9 +12,9 @@
 
 **Token:** garciadiaz-9325-19
 
-**Repositorio de GitHub:** [ENLACE]
+**Repositorio de GitHub:** https://github.com/Lucho-GD/TP2-Estructuras-HTML-y-vinculacion-de-estilos
 
-**GitHub Pages:** [ENLACE]
+**GitHub Pages:** (https://lucho-gd.github.io/TP2-Estructuras-HTML-y-vinculacion-de-estilos/)
 
 ## Descripción
 
